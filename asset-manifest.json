@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ramesh-46/nodemappptgenerator.git/static/css/main.39e97466.css",
+    "main.js": "/ramesh-46/nodemappptgenerator.git/static/js/main.85702593.js",
+    "static/js/22.8c81219f.chunk.js": "/ramesh-46/nodemappptgenerator.git/static/js/22.8c81219f.chunk.js",
+    "static/js/291.e7f74cff.chunk.js": "/ramesh-46/nodemappptgenerator.git/static/js/291.e7f74cff.chunk.js",
+    "index.html": "/ramesh-46/nodemappptgenerator.git/index.html",
+    "main.39e97466.css.map": "/ramesh-46/nodemappptgenerator.git/static/css/main.39e97466.css.map",
+    "main.85702593.js.map": "/ramesh-46/nodemappptgenerator.git/static/js/main.85702593.js.map",
+    "22.8c81219f.chunk.js.map": "/ramesh-46/nodemappptgenerator.git/static/js/22.8c81219f.chunk.js.map",
+    "291.e7f74cff.chunk.js.map": "/ramesh-46/nodemappptgenerator.git/static/js/291.e7f74cff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e97466.css",
+    "static/js/main.85702593.js"
+  ]
+}
